@@ -1,4 +1,3 @@
 Hello Jenkins<br>
 Hell Ong Doanh<br>
-hello Ong Tan <br>
-10/07/2022
+10/07/2022 -> Xin Chao Cac Ban (Xong)
